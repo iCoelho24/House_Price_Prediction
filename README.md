@@ -1,4 +1,4 @@
-# House_Price_Prediction
+# House Price Prediction
 
 ![House Price Prediction](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
